@@ -1,5 +1,5 @@
 
-<a><img align="center" src="https://github.com/AdhikariSagar/AdhikariSagar/blob/main/code.gif" alt="gif" height="300" width="400" /></a><br>
+<a><img align="center" src="https://github.com/AdhikariSagar/AdhikariSagar/blob/main/code.gif" alt="gif"  /></a><br>
 <h1 align="center">Hi 👋, I'm Sagar Adhikari</h1>
 <h3 align="center">Data Science Learner</h3>
 
