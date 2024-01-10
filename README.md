@@ -1,7 +1,7 @@
 
 <a><img align="center" src="https://github.com/AdhikariSagar/AdhikariSagar/blob/main/code.gif" alt="gif" height="400" width="800" style="position:relative; left:20px;"/></a><br>
 <h1 align="center">Hi 👋, I'm Sagar Adhikari</h1>
-<h3 align="center">Data Science Learner</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adhikarisagar&label=Profile%20views&color=0e75b6&style=flat" alt="adhikarisagar" /> </p>
 
